@@ -54,13 +54,13 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Clone the project
 
 ```bash
-  git clone https://github.com/melisagozet/anime_recommendation_system
+  git clone https://github.com/melisagozet/telco_customer_churn_feature_engineering
 ```
 
 Go to project directory
 
 ```bash
-  cd Anime-Recommendations
+  cd telco_customer_churn_feature_engineering
 ```
 
 Run the notebook.
