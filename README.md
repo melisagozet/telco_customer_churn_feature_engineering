@@ -29,7 +29,7 @@
 | **SeniorCitizen :** | Whether the customer is a senior citizen or not (1, 0) |
 | **Partner :** | Whether the customer has a partner or not (Yes, No) ? Whether to be married |
 | **Dependents  :** | Whether the customer has dependents or not (Yes, No) (Child, mother, father, grandmother) |
-| **tenure :** | Number of months the customer has stayed with the company(Multiple different numeric values) |
+| **tenure :** | Number of months the customer has stayed with the company (Multiple different numeric values) |
 | **Contract  :** | Indicates the customer’s current contract type (Month-to-Month, One year, Two year) |
 | **PaperlessBilling :** |Whether the customer has paperless billing or not (Yes, No) |
 | **PaymentMethod :** | The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit - Card (automatic)) |
