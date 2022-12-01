@@ -43,7 +43,7 @@
 | **DeviceProtection :** |Whether the customer has device protection or not (No internet service, No, Yes)|
 | **TechSupport :** |Whether the customer has tech support or not (No internet service, No, Yes)|
 | **StreamingTV :** | Whether the customer has streaming TV or not (No internet service, No, Yes)|
-| **StreamingMovies :** |Whether the customer has streaming movies or not (No internet service, No, Yes)|
+| **StreamingMovies:**| Whether the customer has streaming movies or not (No internet service, No, Yes)|
 
 
 I do not have any rights on the dataset. It is available for access in:  
