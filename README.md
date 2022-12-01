@@ -24,6 +24,7 @@
 
 | **Variable** | **Definition** |
 | :-------- | :------- |
+| **Churn :** | Whether the customer is a churn or not (Yes, No) |
 | **Gender :** | Whether the customer is a female or a male (Male, Female) |
 | **SeniorCitizen :** | Whether the customer is a senior citizen or not (1, 0) |
 | **Partner :** | Whether the customer has a partner or not (Yes, No) ? Whether to be married |
